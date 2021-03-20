@@ -2,7 +2,6 @@
 
 
 
-Wszystkie skrypty w tym miejscu były wykonane w oparciu o wiedzę zdobytą na zajęciach z Podstaw programowania aplikacji geoinformatycznych.
+All the scripts in this repository were created at "Basics of programming gis applications". This was a class in the 5th term at my university. 
 
-
-Najbardziej wymagającym ze skryptów był Algorytm Douglasa Peuckera, który musieliśmy zrobić na zaliczenie.
+The most difficult was Douglas Peucker Algorithm, which we crated to pass this classes.
